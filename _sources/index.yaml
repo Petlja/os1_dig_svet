@@ -23,7 +23,7 @@ description:
 
 
 lessons:
-  - title: ДИГИТАЛНО ДРУШТВО
+  - title: Дигитално друштво
     guid: 77eac8b7-0cc4-4bfd-82b6-cc517bf0da4c
     description: 
     folder: 1_Digitalno drustvo
@@ -130,9 +130,34 @@ lessons:
     activities:
       - type: reading
         title: Коришћење дигиталних уређаја и здравље
-        file: 201_Koriscenje digitalnih uredjaja i zdravlje.rst 
+        file: 219_Koriscenje digitalnih uredjaja i zdravlje.rst 
         description: #Optional
         guid: 4050eb14-6fb8-41b4-8d41-c12990d542e3
+      - type: reading
+        title: Безбедно коришћење дигиталних уређаја
+        file: 221_Bezbedno koriscenje digitalnih uredjaja.rst 
+        description: #Optional
+        guid: 5a9a6ea0-cc1c-43dd-a453-6916fcb9f4da
+      - type: reading
+        title: Електронски отпад је опасан
+        file: 222_Elektronski otpad je opasan.rst 
+        description: #Optional
+        guid: a915d892-61cf-4d68-870b-3edd40ccb1ed
+      - type: reading
+        title: Подаци о личности
+        file: 223_Podaci o licnosti.rst 
+        description: #Optional
+        guid: 80858b6a-036a-4e9c-8985-a427b369689b
+      - type: reading
+        title: Опасности у дигиталном свету
+        file: 224_Opasnosti u digitalnom svetu.rst 
+        description: #Optional
+        guid: ba664bfd-3449-46d2-8f51-0c1340d34800
+      - type: reading
+        title: Безбедно коришћење дигиталних уређаја
+        file: 226_Bezbedno koriscenje digitalnih uredjaja.rst 
+        description: #Optional
+        guid: a484326b-975d-4ff1-9daa-b6dacf8ec5bd
   - title: Алгоритамски начин размишљања
     guid: 39077015-75eb-48d3-87d0-8286fbcf3b11
     description: 
@@ -140,7 +165,41 @@ lessons:
     activities:
       - type: reading
         title: Алгоритам
-        file: 301_Algoritam.rst 
+        file: 327_Algoritam.rst 
         description: #Optional
         guid: e140bb42-8188-4a2e-9b97-c4ec991bf21f
-     
+      - type: reading
+        title: Размишљамо као рачунар
+        file: 328_Razmisljamo kao racunar.rst 
+        description: #Optional
+        guid: 61acc7ef-ebb0-48ee-8f54-b04a117124b1
+      - type: reading
+        title: Знам где рачунар греши!
+        file: 329_Znam gde racunar gresi.rst
+        description: #Optional
+        guid: b44b57a8-3913-4ce2-a1cd-919fd204b3b1
+      - type: reading
+        title: Прави пут
+        file: 330_Pravi put.rst 
+        description: #Optional
+        guid: 7f7e42a4-eaeb-41f2-a171-ce723a8f10fa
+      - type: reading
+        title: Када робот прати упутство
+        file: 332_Kada robot prati uputstvo.rst 
+        description: #Optional
+        guid: aefc1cb9-b7a1-46fc-a4f1-2db69d192a84
+      - type: reading
+        title: Робот у свету геометријских фигура
+        file: 334_Robot u svetu geometrijskih figura.rst 
+        description: #Optional
+        guid: 7b2cf8b3-b859-4978-b835-f8a67a11632c
+      - type: reading
+        title: Алгоритам одређује понашање дигиталног уређаја
+        file: 335_Algoritam odredjuje ponasanje digitalnog uredjaja.rst 
+        description: #Optional
+        guid: a11f9599-6747-4657-86e8-c44b20198087
+      - type: reading
+        title: Алгоритамски начин размишљања
+        file: 336_Algoritamski nacin razmisljanja.rst 
+        description: #Optional
+        guid: bfff8378-781f-4cda-a147-c2583f664b0c
