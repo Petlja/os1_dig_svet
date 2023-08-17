@@ -196,7 +196,7 @@
 
 .. questionnote::
 
- .. image:: ../../_images/robot3ac.png
+ .. image:: ../../_images/robot3c.png
     :height: 100
     :align: left
 
@@ -239,7 +239,7 @@
 
 .. questionnote::
 
- .. image:: ../../_images/robot3ac.png
+ .. image:: ../../_images/robot3c.png
     :height: 100
     :align: left
 
