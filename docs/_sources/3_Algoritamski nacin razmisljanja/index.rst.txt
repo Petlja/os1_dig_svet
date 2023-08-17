@@ -1,0 +1,15 @@
+=============================
+Алгоритамски начин размишљања
+=============================
+
+.. toctree:: 
+    :maxdepth: 1
+
+    327_Algoritam.rst
+    328_Razmisljamo kao racunar.rst
+    329_Znam gde racunar gresi.rst
+    330_Pravi put.rst
+    332_Kada robot prati uputstvo.rst
+    334_Robot u svetu geometrijskih figura.rst
+    335_Algoritam odredjuje ponasanje digitalnog uredjaja.rst
+    336_Algoritamski nacin razmisljanja.rst
