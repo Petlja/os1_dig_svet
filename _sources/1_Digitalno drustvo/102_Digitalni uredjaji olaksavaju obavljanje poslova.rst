@@ -92,7 +92,7 @@
 
 |
 
-.. image:: ../../_images/robotP5c.png
+.. image:: ../../_images/robot5c.png
     :width: 100
     :align: right
 
