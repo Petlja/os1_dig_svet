@@ -1,0 +1,280 @@
+courseId: os1_dig_svet
+description:
+  externalLinks:
+  - href: https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html
+    text: Sphinx Docs
+  - href: https://github.com/Petlja/PetljaDoc/blob/master/README.md
+    text: Petljadoc
+  - href: https://github.com/RunestoneInteractive/overview
+    text: Runestone Interactive
+  longDescription: '<div class="document">
+
+    <p>This is an example of a long description...</p>
+
+    </div>
+
+    '
+  requirements:
+  - Petljadoc
+  - Runestone
+  - Sphinx
+  shortDescription: Дигитални свет за први разред
+  toc:
+  - Intro to Petljadoc INDEX.yaml
+  willLearn:
+  - Preview of Petljadoc course
+lang: en
+lessons:
+- activities:
+  - description: ''
+    file: 100_Ishodi.html
+    guid: c74a6687-3024-41d7-b0a7-8c692f68a4c8
+    normalized_title: Дигитално друштво
+    src: 100_Ishodi.rst
+    title: Дигитално друштво
+    type: reading
+  - description: ''
+    file: 101_Digitalni uredjaji su svuda oko nas.html
+    guid: db6d5b56-5995-4d4d-8536-f6e1b7ca0d93
+    normalized_title: Дигитални уређаји су свуда око нас
+    src: 101_Digitalni uredjaji su svuda oko nas.rst
+    title: Дигитални уређаји су свуда око нас
+    type: reading
+  - description: ''
+    file: 102_Digitalni uredjaji olaksavaju obavljanje poslova.html
+    guid: 42213a39-b10b-4c44-b5d2-515437539104
+    normalized_title: Дигитални уређаји олакшавају обављање послова
+    src: 102_Digitalni uredjaji olaksavaju obavljanje poslova.rst
+    title: Дигитални уређаји олакшавају обављање послова
+    type: reading
+  - description: ''
+    file: 103_Pre i posle pojave digitalnih uredjaja.html
+    guid: 9b24a864-4caa-420d-8364-fd5585038f0c
+    normalized_title: Пре и после појаве дигиталних уређаја
+    src: 103_Pre i posle pojave digitalnih uredjaja.rst
+    title: Пре и после појаве дигиталних уређаја
+    type: reading
+  - description: ''
+    file: 104_Svakodnevno koriscenje digitalnih uredjaja.html
+    guid: 337149b5-e6a8-4da4-9d06-4f5630d088a9
+    normalized_title: Свакодневно коришћење дигиталних уређаја
+    src: 104_Svakodnevno koriscenje digitalnih uredjaja.rst
+    title: Свакодневно коришћење дигиталних уређаја
+    type: reading
+  - description: ''
+    file: 105_Digitalni uredjaji menjaju poslove.html
+    guid: 86d5fb5a-a8e1-4a67-8731-1cab0f984950
+    normalized_title: Дигитални уређаји мењају послове
+    src: 105_Digitalni uredjaji menjaju poslove.rst
+    title: Дигитални уређаји мењају послове
+    type: reading
+  - description: ''
+    file: 106_Digitalni uredjaji menjaju posao.html
+    guid: eb9fd695-6cb2-4957-8146-446ec17c7435
+    normalized_title: Дигитални уређаји мењају посао
+    src: 106_Digitalni uredjaji menjaju posao.rst
+    title: Дигитални уређаји мењају посао
+    type: reading
+  - description: ''
+    file: 107_Digitalni uredjaji u buducnosti.html
+    guid: bfa5dc94-3f89-4353-a894-4c306ad68c49
+    normalized_title: Дигитални уређаји у будућности
+    src: 107_Digitalni uredjaji u buducnosti.rst
+    title: Дигитални уређаји у будућности
+    type: reading
+  - description: ''
+    file: 108_Kreativno izrazavanje pomocu digitalnih uredjaja.html
+    guid: dbc5f3eb-36e8-4dcc-b3fd-d640a72b2f32
+    normalized_title: Креативно изражавање помоћу дигиталних уређаја
+    src: 108_Kreativno izrazavanje pomocu digitalnih uredjaja.rst
+    title: Креативно изражавање помоћу дигиталних уређаја
+    type: reading
+  - description: ''
+    file: 109_Papirni i digitalni udzbenik.html
+    guid: a039d8d4-d66d-44a7-8e77-79e34618e686
+    normalized_title: Папирни и дигитални уџбеник
+    src: 109_Papirni i digitalni udzbenik.rst
+    title: Папирни и дигитални уџбеник
+    type: reading
+  - description: ''
+    file: 110_Komunikacija je prenosenje poruka.html
+    guid: 95356c8b-8852-49a6-84cd-ad900c1c48ba
+    normalized_title: Комуникација је преношење поруке
+    src: 110_Komunikacija je prenosenje poruka.rst
+    title: Комуникација је преношење поруке
+    type: reading
+  - description: ''
+    file: 111_Pisana komunikacija nekada i sada.html
+    guid: 9ed5bd67-8523-40e7-b6f4-2b0d244050ae
+    normalized_title: Писана комуникација некада и сада
+    src: 111_Pisana komunikacija nekada i sada.rst
+    title: Писана комуникација некада и сада
+    type: reading
+  - description: ''
+    file: 112_Komuniciras pomocu telefona.html
+    guid: fe2dc81f-ae65-4f45-b2ac-f5d74ed8116d
+    normalized_title: Комуницираш помоћу телефона
+    src: 112_Komuniciras pomocu telefona.rst
+    title: Комуницираш помоћу телефона
+    type: reading
+  - description: ''
+    file: 113_Lepo ponasanje u komunikaciji pomocu digitalnih uredjaja.html
+    guid: f1d07969-3d94-40f1-8170-e567407999b1
+    normalized_title: Лепо понашање у комуникацији помоћу дигиталних уређаја
+    src: 113_Lepo ponasanje u komunikaciji pomocu digitalnih uredjaja.rst
+    title: Лепо понашање у комуникацији помоћу дигиталних уређаја
+    type: reading
+  - description: ''
+    file: 114_Pametni digitalni uredjaji.html
+    guid: 67b718b0-7341-4ada-9f63-7c5f1d340900
+    normalized_title: Паметни дигитални уређаји
+    src: 114_Pametni digitalni uredjaji.rst
+    title: Паметни дигитални уређаји
+    type: reading
+  - description: ''
+    file: 115_Digitalni uredjaji su pametni.html
+    guid: a96c465c-ede7-46b1-b22c-5962be966813
+    normalized_title: Дигитални уређаји су паметни
+    src: 115_Digitalni uredjaji su pametni.rst
+    title: Дигитални уређаји су паметни
+    type: reading
+  - description: ''
+    file: 116_Digitalno putovanje.html
+    guid: e4c9f664-7b04-4782-9b5c-8d3c646ad91a
+    normalized_title: Дигитално путовање
+    src: 116_Digitalno putovanje.rst
+    title: Дигитално путовање
+    type: reading
+  - description: ''
+    file: 117_Digitalizovana kulturna bastina.html
+    guid: 1bb28400-fac7-49f7-89a1-49caac24e6d0
+    normalized_title: Дигитализована културна баштина
+    src: 117_Digitalizovana kulturna bastina.rst
+    title: Дигитализована културна баштина
+    type: reading
+  - description: ''
+    file: 118_Digitalno drustvo.html
+    guid: 7105c1eb-cc28-41af-b8b1-d590b0b9bfcb
+    normalized_title: Дигитално друштво
+    src: 118_Digitalno drustvo.rst
+    title: Дигитално друштво
+    type: reading
+  archived-activities: []
+  description: ''
+  folder: 1_Digitalno drustvo
+  guid: 77eac8b7-0cc4-4bfd-82b6-cc517bf0da4c
+  normalized_title: Дигитално друштво
+  title: Дигитално друштво
+- activities:
+  - description: ''
+    file: 219_Koriscenje digitalnih uredjaja i zdravlje.html
+    guid: 4050eb14-6fb8-41b4-8d41-c12990d542e3
+    normalized_title: Коришћење дигиталних уређаја и здравље
+    src: 219_Koriscenje digitalnih uredjaja i zdravlje.rst
+    title: Коришћење дигиталних уређаја и здравље
+    type: reading
+  - description: ''
+    file: 221_Bezbedno koriscenje digitalnih uredjaja.html
+    guid: 5a9a6ea0-cc1c-43dd-a453-6916fcb9f4da
+    normalized_title: Безбедно коришћење дигиталних уређаја
+    src: 221_Bezbedno koriscenje digitalnih uredjaja.rst
+    title: Безбедно коришћење дигиталних уређаја
+    type: reading
+  - description: ''
+    file: 222_Elektronski otpad je opasan.html
+    guid: a915d892-61cf-4d68-870b-3edd40ccb1ed
+    normalized_title: Електронски отпад је опасан
+    src: 222_Elektronski otpad je opasan.rst
+    title: Електронски отпад је опасан
+    type: reading
+  - description: ''
+    file: 223_Podaci o licnosti.html
+    guid: 80858b6a-036a-4e9c-8985-a427b369689b
+    normalized_title: Подаци о личности
+    src: 223_Podaci o licnosti.rst
+    title: Подаци о личности
+    type: reading
+  - description: ''
+    file: 224_Opasnosti u digitalnom svetu.html
+    guid: ba664bfd-3449-46d2-8f51-0c1340d34800
+    normalized_title: Опасности у дигиталном свету
+    src: 224_Opasnosti u digitalnom svetu.rst
+    title: Опасности у дигиталном свету
+    type: reading
+  - description: ''
+    file: 226_Bezbedno koriscenje digitalnih uredjaja.html
+    guid: a484326b-975d-4ff1-9daa-b6dacf8ec5bd
+    normalized_title: Безбедно коришћење дигиталних уређаја
+    src: 226_Bezbedno koriscenje digitalnih uredjaja.rst
+    title: Безбедно коришћење дигиталних уређаја
+    type: reading
+  archived-activities: []
+  description: ''
+  folder: 2_Bezbedno koriscenje digitalnih uredjaja
+  guid: e35f0406-5b44-4b36-9882-45db9af5d058
+  normalized_title: Безбедно коришћење дигиталних уређаја
+  title: Безбедно коришћење дигиталних уређаја
+- activities:
+  - description: ''
+    file: 327_Algoritam.html
+    guid: e140bb42-8188-4a2e-9b97-c4ec991bf21f
+    normalized_title: Алгоритам
+    src: 327_Algoritam.rst
+    title: Алгоритам
+    type: reading
+  - description: ''
+    file: 328_Razmisljamo kao racunar.html
+    guid: 61acc7ef-ebb0-48ee-8f54-b04a117124b1
+    normalized_title: Размишљамо као рачунар
+    src: 328_Razmisljamo kao racunar.rst
+    title: Размишљамо као рачунар
+    type: reading
+  - description: ''
+    file: 329_Znam gde racunar gresi.html
+    guid: b44b57a8-3913-4ce2-a1cd-919fd204b3b1
+    normalized_title: Знам где рачунар греши!
+    src: 329_Znam gde racunar gresi.rst
+    title: Знам где рачунар греши!
+    type: reading
+  - description: ''
+    file: 330_Pravi put.html
+    guid: 7f7e42a4-eaeb-41f2-a171-ce723a8f10fa
+    normalized_title: Прави пут
+    src: 330_Pravi put.rst
+    title: Прави пут
+    type: reading
+  - description: ''
+    file: 332_Kada robot prati uputstvo.html
+    guid: aefc1cb9-b7a1-46fc-a4f1-2db69d192a84
+    normalized_title: Када робот прати упутство
+    src: 332_Kada robot prati uputstvo.rst
+    title: Када робот прати упутство
+    type: reading
+  - description: ''
+    file: 334_Robot u svetu geometrijskih figura.html
+    guid: 7b2cf8b3-b859-4978-b835-f8a67a11632c
+    normalized_title: Робот у свету геометријских фигура
+    src: 334_Robot u svetu geometrijskih figura.rst
+    title: Робот у свету геометријских фигура
+    type: reading
+  - description: ''
+    file: 335_Algoritam odredjuje ponasanje digitalnog uredjaja.html
+    guid: a11f9599-6747-4657-86e8-c44b20198087
+    normalized_title: Алгоритам одређује понашање дигиталног уређаја
+    src: 335_Algoritam odredjuje ponasanje digitalnog uredjaja.rst
+    title: Алгоритам одређује понашање дигиталног уређаја
+    type: reading
+  - description: ''
+    file: 336_Algoritamski nacin razmisljanja.html
+    guid: bfff8378-781f-4cda-a147-c2583f664b0c
+    normalized_title: Алгоритамски начин размишљања
+    src: 336_Algoritamski nacin razmisljanja.rst
+    title: Алгоритамски начин размишљања
+    type: reading
+  archived-activities: []
+  description: ''
+  folder: 3_Algoritamski nacin razmisljanja
+  guid: 39077015-75eb-48d3-87d0-8286fbcf3b11
+  normalized_title: Алгоритамски начин размишљања
+  title: Алгоритамски начин размишљања
+title: Дигитални свет за први разред
