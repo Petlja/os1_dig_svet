@@ -23,14 +23,124 @@ description:
 
 
 lessons:
-  - title: Увод
-    guid: e35f0406-5b44-4b36-9882-45db9af5d058
-    description: Your first lesson. Description is not required attribute
-    folder: 0_Uvod
+  - title: ДИГИТАЛНО ДРУШТВО
+    guid: 77eac8b7-0cc4-4bfd-82b6-cc517bf0da4c
+    description: 
+    folder: 1_Digitalno drustvo
     activities:
       - type: reading
-        title: Увод
-        file: Uvod.rst 
+        title: Дигитално друштво
+        file: 100_Ishodi.rst 
         description: #Optional
-        guid: 66cd2ce3-3c02-4e44-9c45-d3cb8cfeb847
+        guid: c74a6687-3024-41d7-b0a7-8c692f68a4c8
+      - type: reading
+        title: Дигитални уређаји су свуда око нас
+        file: 101_Digitalni uredjaji su svuda oko nas.rst 
+        description: #Optional
+        guid: db6d5b56-5995-4d4d-8536-f6e1b7ca0d93
+      - type: reading
+        title: Дигитални уређаји олакшавају обављање послова
+        file: 102_Digitalni uredjaji olaksavaju obavljanje poslova.rst 
+        description: #Optional
+        guid: 42213a39-b10b-4c44-b5d2-515437539104
+      - type: reading
+        title: Пре и после појаве дигиталних уређаја
+        file: 103_Pre i posle pojave digitalnih uredjaja.rst
+        description: #Optional
+        guid: 9b24a864-4caa-420d-8364-fd5585038f0c
+      - type: reading
+        title: Свакодневно коришћење дигиталних уређаја
+        file: 104_Svakodnevno koriscenje digitalnih uredjaja.rst 
+        description: #Optional
+        guid: 337149b5-e6a8-4da4-9d06-4f5630d088a9
+      - type: reading
+        title: Дигитални уређаји мењају послове
+        file: 105_Digitalni uredjaji menjaju poslove.rst
+        description: #Optional
+        guid: 86d5fb5a-a8e1-4a67-8731-1cab0f984950
+      - type: reading
+        title: Дигитални уређаји мењају посао
+        file: 106_Digitalni uredjaji menjaju posao.rst 
+        description: #Optional
+        guid: eb9fd695-6cb2-4957-8146-446ec17c7435
+      - type: reading
+        title: Дигитални уређаји у будућности
+        file: 107_Digitalni uredjaji u buducnosti.rst 
+        description: #Optional
+        guid: bfa5dc94-3f89-4353-a894-4c306ad68c49
+      - type: reading
+        title: Креативно изражавање помоћу дигиталних уређаја
+        file: 108_Kreativno izrazavanje pomocu digitalnih uredjaja.rst 
+        description: #Optional
+        guid: dbc5f3eb-36e8-4dcc-b3fd-d640a72b2f32
+      - type: reading
+        title: Папирни и дигитални уџбеник
+        file: 109_Papirni i digitalni udzbenik.rst 
+        description: #Optional
+        guid: a039d8d4-d66d-44a7-8e77-79e34618e686
+      - type: reading
+        title: Комуникација је преношење поруке
+        file: 110_Komunikacija je prenosenje poruka.rst 
+        description: #Optional
+        guid: 95356c8b-8852-49a6-84cd-ad900c1c48ba
+      - type: reading
+        title: Писана комуникација некада и сада
+        file: 111_Pisana komunikacija nekada i sada.rst 
+        description: #Optional
+        guid: 9ed5bd67-8523-40e7-b6f4-2b0d244050ae
+      - type: reading
+        title: Комуницираш помоћу телефона
+        file: 112_Komuniciras pomocu telefona.rst 
+        description: #Optional
+        guid: fe2dc81f-ae65-4f45-b2ac-f5d74ed8116d
+      - type: reading
+        title: Лепо понашање у комуникацији помоћу дигиталних уређаја
+        file: 113_Lepo ponasanje u komunikaciji pomocu digitalnih uredjaja.rst 
+        description: #Optional
+        guid: f1d07969-3d94-40f1-8170-e567407999b1
+      - type: reading
+        title: Паметни дигитални уређаји
+        file: 114_Pametni digitalni uredjaji.rst 
+        description: #Optional
+        guid: 67b718b0-7341-4ada-9f63-7c5f1d340900
+      - type: reading
+        title: Дигитални уређаји су паметни
+        file: 115_Digitalni uredjaji su pametni.rst 
+        description: #Optional
+        guid: a96c465c-ede7-46b1-b22c-5962be966813
+      - type: reading
+        title: Дигитално путовање
+        file: 116_Digitalno putovanje.rst 
+        description: #Optional
+        guid: e4c9f664-7b04-4782-9b5c-8d3c646ad91a
+      - type: reading
+        title: Дигитализована културна баштина
+        file: 117_Digitalizovana kulturna bastina.rst 
+        description: #Optional
+        guid: 1bb28400-fac7-49f7-89a1-49caac24e6d0
+      - type: reading
+        title: Дигитално друштво
+        file: 118_Digitalno drustvo.rst 
+        description: #Optional
+        guid: 7105c1eb-cc28-41af-b8b1-d590b0b9bfcb
+  - title: Безбедно коришћење дигиталних уређаја
+    guid: e35f0406-5b44-4b36-9882-45db9af5d058
+    description: 
+    folder: 2_Bezbedno koriscenje digitalnih uredjaja
+    activities:
+      - type: reading
+        title: Коришћење дигиталних уређаја и здравље
+        file: 201_Koriscenje digitalnih uredjaja i zdravlje.rst 
+        description: #Optional
+        guid: 4050eb14-6fb8-41b4-8d41-c12990d542e3
+  - title: Алгоритамски начин размишљања
+    guid: 39077015-75eb-48d3-87d0-8286fbcf3b11
+    description: 
+    folder: 3_Algoritamski nacin razmisljanja
+    activities:
+      - type: reading
+        title: Алгоритам
+        file: 301_Algoritam.rst 
+        description: #Optional
+        guid: e140bb42-8188-4a2e-9b97-c4ec991bf21f
      
