@@ -145,8 +145,6 @@
 
 Дигитални уређаји су свуда око нас. 
 
-|
-
 Пред тобом се налази слика различитих предмета. 
 
 |
@@ -271,7 +269,7 @@
 
  Заокружи зеленом бојом све предмете који су дигитални, а црвеном бојом све уређаје који нису дигитални.
 
-
-|cet_ob|   |sat_ob|   |sat_ro|   |daljinac|   |televizor|   |aa|   |navigacija|   |pam_sat|   |kasetofon|   |sd|   |lt|   |produzni|   |slus|   |tab|   |pt|   |stari_tv|   |web_kamera|   |mikrofon|   |konzola|   |stari_radio|   |monitor|
-
+.. image:: ../../_images/uredjaji.png
+    :width: 780
+    :align: center
 
