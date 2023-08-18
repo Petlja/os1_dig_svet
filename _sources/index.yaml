@@ -30,7 +30,7 @@ lessons:
     activities:
       - type: reading
         title: Дигитално друштво
-        file: 100_Ishodi.rst 
+        file: 100_Uvod.rst 
         description: #Optional
         guid: c74a6687-3024-41d7-b0a7-8c692f68a4c8
       - type: reading

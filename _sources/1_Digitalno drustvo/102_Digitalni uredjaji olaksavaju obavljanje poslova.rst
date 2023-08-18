@@ -2,19 +2,19 @@
 =============================================
 
 .. |laptop| image:: ../../_images/laptop.png
-    :width: 150px  
+    :width: 100px  
 
 .. |pametni_telefon| image:: ../../_images/pametni_telefon.png
     :width: 50px
 
 .. |surround| image:: ../../_images/surround.png
-    :width: 150px
+    :width: 100px
 
 .. |televizor| image:: ../../_images/televizor.png
-    :width: 150px
+    :width: 100px
 
 .. |klima| image:: ../../_images/klima.png
-    :width: 150px
+    :width: 100px
 
 .. infonote::
 
@@ -28,8 +28,6 @@
 
 
 Пажљиво погледај обе слике. 
-
-|
 
 .. image:: ../../_images/u_posti.png
     :width: 780
@@ -47,8 +45,6 @@
  Опиши приказане ситуације.
 
 Пажљиво погледај доњу слику. Означи све дигиталне уређаје које можеш да пронађеш на слици.
-
-|
 
 .. image:: ../../_images/porodica_u_dnevnoj_sobi.png
     :width: 780
