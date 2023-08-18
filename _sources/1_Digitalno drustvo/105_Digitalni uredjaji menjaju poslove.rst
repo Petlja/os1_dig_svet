@@ -2,10 +2,10 @@
 ================================
 
 .. |retro_novinar| image:: ../../_images/retro_novinar.png
-            :width: 300px
+            :height: 250px
 
 .. |savremeni_novinar| image:: ../../_images/savremeni_novinar.png
-            :width: 300px
+            :height: 250px
 
 
 .. infonote::

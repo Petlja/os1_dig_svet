@@ -55,6 +55,12 @@
 .. |arhitekta2| image:: ../../_images/arhitekta2.png
             :height: 300px  
 
+.. |retro_novinar| image:: ../../_images/retro_novinar.png
+            :height: 250px
+
+.. |savremeni_novinar| image:: ../../_images/savremeni_novinar.png
+            :height: 250px
+
 
 .. infonote::
 
@@ -153,19 +159,13 @@
 
 Пажљиво проучи слике.
 
-|
+.. csv-table:: 
+   :widths: auto
+   :align: center
 
-.. image:: ../../_images/retro_novinar.png
-    :width: 780
-    :align: center
+   "|retro_novinar|", "|savremeni_novinar|"
+   "   ", "  "
 
-|
-
-.. image:: ../../_images/savremeni_novinar.png
-    :width: 780
-    :align: center
-
-|
 
 Попуни следећи табелу. Обој квадратић испод писца на кога се дато тврђење односи.
 

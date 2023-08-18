@@ -195,7 +195,7 @@
 .. questionnote::
 
  .. image:: ../../_images/robot3c.png
-    :height: 100
+    :height: 120
     :align: left
 
  Како ти ови предмети олакшавају живот? Опиши како их користиш.
@@ -236,7 +236,7 @@
 .. questionnote::
 
  .. image:: ../../_images/robot3c.png
-    :height: 100
+    :height: 120
     :align: left
 
  Како ти ови предмети олакшавају живот? Опиши како их користиш.

@@ -1,6 +1,13 @@
 Свакодневно коришћење дигиталних уређаја
 ========================================
 
+.. |moderni_odmor| image:: ../../_images/moderni_odmor.png
+    :height: 220px
+
+.. |retro_odmor| image:: ../../_images/retro_odmor.png
+    :height: 220px
+
+
 .. infonote::
 
  .. image:: ../../_images/robot1a.png
@@ -12,15 +19,13 @@
 
 Пажљиво погледај обе слике. 
 
-.. image:: ../../_images/moderni_odmor.png
-    :width: 780
-    :align: center
 
-|
+.. csv-table:: 
+   :widths: auto
+   :align: center
 
-.. image:: ../../_images/retro_odmor.png
-    :width: 780
-    :align: center
+   "|moderni_odmor|", "|retro_odmor|"
+   "   ", "  "
 
 .. questionnote::
 

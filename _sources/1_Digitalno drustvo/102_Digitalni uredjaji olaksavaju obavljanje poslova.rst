@@ -16,6 +16,12 @@
 .. |klima| image:: ../../_images/klima.png
     :width: 100px
 
+.. |u posti| image:: ../../_images/u_posti.png
+    :height: 220px
+
+.. |mama_pomaze| image:: ../../_images/mama_pomaze.png
+    :height: 220px
+
 .. infonote::
 
  .. image:: ../../_images/robot1a.png
@@ -29,16 +35,13 @@
 
 Пажљиво погледај обе слике. 
 
-.. image:: ../../_images/u_posti.png
-    :width: 780
-    :align: center
 
-|
+.. csv-table:: 
+   :widths: auto
+   :align: center
 
-.. image:: ../../_images/mama_pomaze.png
-    :width: 780
-    :align: center
-
+   "|u posti|", "|mama_pomaze|"
+   "   ", "  "
 
 .. questionnote::
 
