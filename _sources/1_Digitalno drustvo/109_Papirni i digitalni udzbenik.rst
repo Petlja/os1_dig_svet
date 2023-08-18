@@ -55,7 +55,7 @@
 
 .. infonote::
 
- .. image:: ../../_images/robot2a.png
+ .. image:: ../../_images/robot2.png
     :height: 150
     :align: left
 
