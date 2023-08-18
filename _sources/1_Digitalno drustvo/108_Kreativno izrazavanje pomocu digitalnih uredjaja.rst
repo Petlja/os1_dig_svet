@@ -10,7 +10,7 @@
 .. |surround| image:: ../../_images/surround.png
     :height: 100px
 
-.. |usb| image:: ../../_images/usb.png
+.. |usb| image:: ../../_images/usb_flash.png
     :height: 100px
 
 .. |kv| image:: ../../_images/kv.png
