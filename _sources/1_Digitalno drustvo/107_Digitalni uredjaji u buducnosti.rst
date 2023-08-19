@@ -82,7 +82,7 @@
 |
 
 .. image:: ../../_images/telefonzadatak.png
-    :width: 200
+    :width: 150
     :align: center
             
 

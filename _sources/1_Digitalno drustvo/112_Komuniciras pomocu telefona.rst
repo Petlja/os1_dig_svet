@@ -6,10 +6,10 @@
             :height: 15px  
 
 .. |ajfon| image:: ../../_images/ajfon.png
-            :height: 150px  
+            :height: 100px  
 
 .. |fiksni| image:: ../../_images/stari_fiksni.png
-            :height: 150px  
+            :height: 100px  
 
 .. infonote::
 

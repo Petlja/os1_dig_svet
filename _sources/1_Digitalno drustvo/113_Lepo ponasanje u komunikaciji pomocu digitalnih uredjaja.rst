@@ -75,13 +75,13 @@
 Поштуј правила добре комуникације помоћу дигиталног уређаја. 
 
 .. image:: ../../_images/slanje_poruka.png
-    :width: 780
+    :width: 600
     :align: center
 
 |
 
 .. image:: ../../_images/slanje_poruka.png
-    :width: 780
+    :width: 600
     :align: center
 
 
@@ -97,8 +97,8 @@
 
 |
 
-.. image:: ../../_images/emotikoni.png
-    :width: 500
+.. image:: ../../_images/emoji.png
+    :width: 400
     :align: center
 
 .. questionnote::
@@ -106,26 +106,26 @@
  Пронађи слово за сваки емотикон. Откриj скривену реч или реченицу. 
 
 .. image:: ../../_images/digitalni_uredjaj.png
-    :width: 780
+    :width: 600
     :align: center
 
 ------------
 
 .. image:: ../../_images/ne_pisi_tekst_velikim_slovima.png
-    :width: 780
+    :width: 600
     :align: center
 
 ------------
 
 .. image:: ../../_images/postuj_gramaticka_pravila.png
-    :width: 780
+    :width: 600
     :align: center
 
 ------------
 
 
 .. image:: ../../_images/uvek.png
-    :width: 780
+    :width: 600
     :align: center
 
 ------------

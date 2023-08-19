@@ -46,7 +46,7 @@
 На доњој слици означи плавом бојом путању од продавнице до куће Најиних другарица Иване и Петре.
 
 .. image:: ../../_images/putanja.png
-  :width: 780
+  :width: 600
   :align: center
 
 .. questionnote::
@@ -71,7 +71,7 @@
 |
 
 .. image:: ../../_images/skrivena.png
-    :width: 400
+    :width: 300
     :align: center
 
 .. questionnote::

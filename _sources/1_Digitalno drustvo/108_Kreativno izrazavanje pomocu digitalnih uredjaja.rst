@@ -2,49 +2,49 @@
 ==============================================
 
 .. |tablet| image:: ../../_images/tablet.png
-    :height: 100px  
+    :height: 70px  
 
 .. |pametni_telefon| image:: ../../_images/pametni_telefon.png
-    :height: 100px
+    :height: 70px
 
 .. |surround| image:: ../../_images/surround.png
-    :height: 100px
+    :height: 70px
 
 .. |usb| image:: ../../_images/usb_flash.png
-    :height: 100px
+    :height: 70px
 
 .. |kv| image:: ../../_images/kv.png
             :height: 15px  
 
 .. |aa| image:: ../../_images/analogni_aparat.png
-    :height: 100px  
+    :height: 70px  
 
 .. |komp| image:: ../../_images/komp.png
-    :height: 100px
+    :height: 70px
 
 .. |laptop| image:: ../../_images/laptop.png
-    :height: 100px
+    :height: 70px
 
 .. |web| image:: ../../_images/web_kamera.png
-    :height: 100px
+    :height: 70px
 
 .. |skener| image:: ../../_images/skener.png
-    :height: 100px
+    :height: 70px
 
 .. |stampac| image:: ../../_images/stampac.png
-    :height: 100px
+    :height: 70px
 
 .. |konzola| image:: ../../_images/konzola.png
-    :height: 80px
+    :height: 55px
 
 .. |slusalice| image:: ../../_images/slusalice.png
-    :height: 100px
+    :height: 70px
 
 .. |mis| image:: ../../_images/mis.png
-    :height: 100px
+    :height: 70px
 
 .. |tastatura| image:: ../../_images/tastatura.png
-    :height: 45px
+    :height: 30px
 
 .. |line| image:: ../../_images/line.png
             :width: 150px  
