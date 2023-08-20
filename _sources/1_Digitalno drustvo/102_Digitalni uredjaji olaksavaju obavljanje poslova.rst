@@ -24,7 +24,7 @@
 
 .. infonote::
 
- .. image:: ../../_images/robot1a.png
+ .. image:: ../../_images/robot11.png
     :height: 100
     :align: left
 
