@@ -46,7 +46,7 @@
 
 .. quizq::
 
-    .. fillintheblank:: fillintheblank_sample_question1
+    .. fillintheblank:: f102
 
         Колико дигиталних уређаја препознајеш на слици?
 
