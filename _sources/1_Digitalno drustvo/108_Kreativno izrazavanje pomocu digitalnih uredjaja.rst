@@ -1,54 +1,6 @@
 Креативно изражавање помоћу дигиталних уређаја
 ==============================================
 
-.. |tablet| image:: ../../_images/tablet.png
-    :height: 70px  
-
-.. |pametni_telefon| image:: ../../_images/pametni_telefon.png
-    :height: 70px
-
-.. |surround| image:: ../../_images/surround.png
-    :height: 70px
-
-.. |usb| image:: ../../_images/usb_flash.png
-    :height: 70px
-
-.. |kv| image:: ../../_images/kv.png
-            :height: 15px  
-
-.. |aa| image:: ../../_images/analogni_aparat.png
-    :height: 70px  
-
-.. |komp| image:: ../../_images/komp.png
-    :height: 70px
-
-.. |laptop| image:: ../../_images/laptop.png
-    :height: 70px
-
-.. |web| image:: ../../_images/web_kamera.png
-    :height: 70px
-
-.. |skener| image:: ../../_images/skener.png
-    :height: 70px
-
-.. |stampac| image:: ../../_images/stampac.png
-    :height: 70px
-
-.. |konzola| image:: ../../_images/konzola.png
-    :height: 55px
-
-.. |slusalice| image:: ../../_images/slusalice.png
-    :height: 70px
-
-.. |mis| image:: ../../_images/mis.png
-    :height: 70px
-
-.. |tastatura| image:: ../../_images/tastatura.png
-    :height: 30px
-
-.. |line| image:: ../../_images/line.png
-            :width: 150px  
-
 .. |arhitekta| image:: ../../_images/arhitekta.png
             :height: 300px  
 
@@ -61,11 +13,15 @@
 .. |savremeni_novinar| image:: ../../_images/savremeni_novinar.png
             :height: 250px
 
+.. |kv| image:: ../../_images/kv.png
+            :height: 15px
+
+
 
 .. infonote::
 
  .. image:: ../../_images/robot11.png
-    :height: 100
+    :height: 120
     :align: left
 
  Када урадиш дате задатке и одговориш на питања у лекцији знаћеш да упоредиш начине креативног изражавања са дигиталним уређајима и без њих.
@@ -82,43 +38,47 @@
    :widths: auto
    :align: center
 
-   "|tablet|", "|pametni_telefon|", "|usb|","|surround|"
+
    "|kv|", "|kv|", "|kv|","|kv|"
-   "|line|", "|line|", "|line|", "|line|"
+
 
 .. csv-table::
    :header: "**Може да слика**"
    :widths: auto
    :align: center
 
-   "|aa|", "|komp|", "|laptop|","|web|"
+ 
    "|kv|", "|kv|", "|kv|","|kv|"
-   "|line|", "|line|", "|line|", "|line|"
+  
  
 .. csv-table::
    :header: "**Може да шаље слике**"
    :widths: auto
    :align: center
 
-   "|skener|", "|stampac|", "|konzola|","|pametni_telefon|"
+  
    "|kv|", "|kv|", "|kv|","|kv|"
-   "|line|", "|line|", "|line|", "|line|"
+  
  
 .. csv-table::
    :header: "**Може помоћи да пишете текст**"
    :widths: auto
    :align: center
 
-   "|slusalice|", "|mis|", "|tastatura|","|komp|"
+
    "|kv|", "|kv|", "|kv|","|kv|"
-   "|line|", "|line|", "|line|", "|line|"
+ 
  
 
 Упореди своје решење са другом или другарицом. 
 
 .. questionnote::
 
- Именуј све уређаје. Напиши име уређаја на цртици која се налази испод сваког уређаја. Како користиш сваки од ових уређаја?
+Именуј дате уређаје. 
+
+Како користиш сваки од ових уређаја?
+
+------------------
 
 Пажљиво погледај обе слике.
 
@@ -131,31 +91,20 @@
 
 .. questionnote::
 
- Напиши каква је разлика између ове две слике - у чему се разликује креативни рад са и без дигиталних уређаја?
-
-.. csv-table::
-   :header: "**Креативан рад архитекте без употребе дигиталног уређаја**", "**Креативан рад архитекте уз употребу дигиталног уређаја**" 
-   :widths: auto
-   :align: center
-
-   "", ""
-   
-|
-
-|
+ Опиши каква је разлика између ове две слике - у чему се разликује креативни рад архитекте са и без дигиталних уређаја?
 
 |
 
 -------------
 
 
-.. image:: ../../_images/robot5c.png
+.. image:: ../../_images/robot13.png
     :width: 100
     :align: right
 
 ------------
 
-**Рад код куће**
+**Домаћи задатак**
 
 Пажљиво проучи слике.
 
@@ -167,7 +116,7 @@
    "   ", "  "
 
 
-Попуни следећи табелу. Обој квадратић испод писца на кога се дато тврђење односи.
+У радној свесци на страни **XX** обој квадратић испод писца на кога се дато тврђење односи
 
 .. csv-table:: 
    :header: "                 ", "**Прва слика**", "**Друга слика**"
