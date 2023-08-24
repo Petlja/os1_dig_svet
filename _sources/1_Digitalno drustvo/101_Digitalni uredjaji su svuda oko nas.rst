@@ -73,6 +73,7 @@
 
     .. mchoice:: p2
             :multiple_answers:
+            :hidelabels:
             :answer_a: 1 
             :answer_b: 2
             :answer_c: 3 
