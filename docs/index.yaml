@@ -27,10 +27,10 @@ lang: en
 lessons:
 - activities:
   - description: ''
-    file: 100_Ishodi.html
+    file: 100_Uvod.html
     guid: c74a6687-3024-41d7-b0a7-8c692f68a4c8
     normalized_title: Дигитално друштво
-    src: 100_Ishodi.rst
+    src: 100_Uvod.rst
     title: Дигитално друштво
     type: reading
   - description: ''
