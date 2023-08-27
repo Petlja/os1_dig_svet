@@ -17,7 +17,6 @@
             :height: 15px
 
 
-
 .. infonote::
 
  .. image:: ../../_images/robot11.png
@@ -31,52 +30,59 @@
 Користећи један дигитални уређај можеш да ствараш слике, текст али и да решаваш најразличитије проблеме. Другим речима, помоћу дигиталног уређаја можеш да 
 испољиш своју креативност на најбољи могући начин.
 
-Обој квадратић испод сваке слике уређаја који можеш да користиш за:
+.. quizq::
 
-.. csv-table::
-   :header: "**Пуштање и креирање музике**"
-   :widths: auto
-   :align: center
+ .. image:: ../../_images/p108a.png
+    :width: 600
+    :align: center
 
+ .. mchoice:: p108a
+    :multiple_answers:
+    :hide_labels:
+    :answer_a: 1
+    :answer_b: 2
+    :answer_c: 3
+    :answer_d: 4
+    :answer_e: 5
+    :feedback_a: Одговор је тачан.
+    :feedback_b: Одговор је тачан.
+    :feedback_c: Одговор није тачан.
+    :feedback_d: Одговор је тачан.
+    :feedback_e: Одговор није тачан.
+    :correct: a, b, d
 
-   "|kv|", "|kv|", "|kv|","|kv|"
-
-
-.. csv-table::
-   :header: "**Може да слика**"
-   :widths: auto
-   :align: center
-
- 
-   "|kv|", "|kv|", "|kv|","|kv|"
-  
- 
-.. csv-table::
-   :header: "**Може да шаље слике**"
-   :widths: auto
-   :align: center
-
-  
-   "|kv|", "|kv|", "|kv|","|kv|"
-  
- 
-.. csv-table::
-   :header: "**Може помоћи да пишете текст**"
-   :widths: auto
-   :align: center
+    Означи квадратићe испред бројева којима су означени уређаји које можеш да користиш за сликање. 
 
 
-   "|kv|", "|kv|", "|kv|","|kv|"
- 
- 
+.. quizq::
 
-Упореди своје решење са другом или другарицом. 
+ .. image:: ../../_images/p108b.png
+    :width: 600
+    :align: center
+
+ .. mchoice:: p1108b
+    :multiple_answers:
+    :hide_labels:
+    :answer_a: 1
+    :answer_b: 2
+    :answer_c: 3
+    :answer_d: 4
+    :answer_e: 5
+    :feedback_a: Одговор је тачан.
+    :feedback_b: Одговор је тачан.
+    :feedback_c: Одговор је тачан.
+    :feedback_d: Одговор није тачан.
+    :feedback_e: Одговор је тачан.
+    :correct: a, b, c, e
+
+    Означи квадратићe испред бројева којима су означени уређаји који ти могу помоћи да пишеш текст. 
+
 
 .. questionnote::
 
-Именуј дате уређаје. 
+ Именуј дате уређаје. 
 
-Како користиш сваки од ових уређаја?
+ Како користиш сваки од ових уређаја?
 
 ------------------
 

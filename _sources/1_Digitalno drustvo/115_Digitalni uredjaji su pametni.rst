@@ -42,7 +42,7 @@ Oсмисли како би изгледала твоја „паметна ку
     |
 
     .. image:: ../../_images/p115a.png
-            :width: 500px
+            :width: 600px
             :align: center
 
     .. dragndrop:: d115
