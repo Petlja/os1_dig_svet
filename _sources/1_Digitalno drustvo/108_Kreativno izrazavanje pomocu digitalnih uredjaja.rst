@@ -33,7 +33,7 @@
 .. quizq::
 
  .. image:: ../../_images/p108a.png
-    :width: 600
+    :width: 700
     :align: center
 
  .. mchoice:: p108a
@@ -57,7 +57,7 @@
 .. quizq::
 
  .. image:: ../../_images/p108b.png
-    :width: 600
+    :width: 700
     :align: center
 
  .. mchoice:: p1108b
