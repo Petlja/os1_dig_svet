@@ -156,6 +156,11 @@ lessons:
     folder: 2_Bezbedno koriscenje digitalnih uredjaja
     activities:
       - type: reading
+        title: Безбедно коришћење дигиталних уређаја
+        file: 200_Bezbedno koriscenje digitalnih uredjaja.rst 
+        description: #Optional
+        guid: 0b998d5d-df36-49b8-90e4-ab88497f0f0f
+      - type: reading
         title: Коришћење дигиталних уређаја и здравље
         file: 219_Koriscenje digitalnih uredjaja i zdravlje.rst 
         description: #Optional
@@ -190,6 +195,11 @@ lessons:
     description: 
     folder: 3_Algoritamski nacin razmisljanja
     activities:
+      - type: reading
+        title: Алгоритамски начин размишљања
+        file: 300_Algoritamski nacin razmisljanja.rst
+        description: #Optional
+        guid: b55c0435-870b-41b3-8099-1360a164db72
       - type: reading
         title: Алгоритам
         file: 327_Algoritam.rst 
