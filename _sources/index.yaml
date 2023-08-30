@@ -50,6 +50,16 @@ description:
 
 
 lessons:
+  - title: Увод
+    guid: dc4a9e7e-3aa5-4833-8b6e-0a0852fc0d12
+    description: 
+    folder: 0_Uvod
+    activities:
+      - type: reading
+        title: Добродошли у Дигитални свет!
+        file: 0_1_Uvod.rst
+        description: #Optional
+        guid: df2413db-8567-4ab5-a5ba-9a5c54c6c5c3
   - title: Дигитално друштво
     guid: 77eac8b7-0cc4-4bfd-82b6-cc517bf0da4c
     description: 
