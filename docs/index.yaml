@@ -9,22 +9,78 @@ description:
     text: Runestone Interactive
   longDescription: '<div class="document">
 
-    <p>This is an example of a long description...</p>
+    <p>Овај курс је намењен ученицима првог разреда основне школе за предмет Дигитални
+    свет.
+
+    У оквиру курса детаљно су обрађене наставне теме предвиђене програмом наставе
+    и учења за овај предмет.</p>
+
+    <p>&lt;p&gt;
+
+    &lt;a rel=&quot;license&quot; href=&quot;<a class="reference external" href="https://creativecommons.org/licenses/by/4.0/deed.sr_LATN">https://creativecommons.org/licenses/by/4.0/deed.sr_LATN</a>&quot;&gt;
+
+    &lt;img alt=&quot;Creative Commons License&quot; style=&quot;border-width:0&quot;
+    src=&quot;https://i.creativecommons.org/l/by/4.0/88x31.png&quot; /&gt;&lt;/a&gt;
+
+    &lt;br /&gt;Овај курс Фондација Петља објавила je под лиценцом &lt;a rel=&quot;license&quot;
+    href=&quot;https://creativecommons.org/licenses/by/4.0/deed.sr_LATN&quot;&gt;Creative
+    Commons Autorstvo 4.0 Međunarodna Licenca (CC BY 4.0)&lt;/a&gt;.
+
+    &lt;/p&gt;</p>
 
     </div>
 
     '
   requirements:
-  - Petljadoc
-  - Runestone
-  - Sphinx
+  - Персонални рачунар са оперативним системом Windows  и приступом интернету
   shortDescription: Дигитални свет за први разред
   toc:
   - Intro to Petljadoc INDEX.yaml
   willLearn:
-  - Preview of Petljadoc course
-lang: en
+  - како да препознаш дигиталне уређаје из окружења и именујеш их;
+  - како  дигитални уређаји олакшавај уобављање свакодневних послова послова;
+  - како се  мењао начин рада и живота људи пре и после појаве дигиталних уређаја;
+  - разлику између креативног изражаваш коришћењем дигиталног уређајима и без њега;
+  - како се користе дигитални уџбеници за учење (самостално и/или уз помоћ наставника);
+  - разлику између дигиталног и папирног уџбеника;
+  - Упореди традиционалне видове комуникације са комуникацијом посредством дигиталних
+    уређаја;
+  - шта су „паметни“ дигитални уређаји;
+  - начин на који дигитални уређаји могу да допринесу упознавању културне баштине;
+  - основна правила за коришћење дигиталних уређаја како не би угрозили здравље;
+  - који су здравствени ризици везани за прекомерно или неправилно коришћење дигиталних
+    уређаја;
+  - како заштитити животну средину правилним олагањем електронског отпада;
+  - основне податке о личности;
+  - зашто саопштавање података о личности представља ризично понашање при комуникацији
+    помоћу дигиталних уређаја;
+  - коме се треба обратити за помоћ у случају контакта са непримереним дигиталним
+    садржајем, непознатим, злонамерним особама или особама које комуницирају на неприхватљив
+    начин;
+  - основне препоруке за руковање дигиталним уређајем на одговоран начин (примена
+    мера физичке заштите) и зашто је важно примењивати их
+  - шта је алгоритам;
+  - како да решиш познат проблем корак по корак;
+  - како да спроведеш поступак описан симболима познатог/договореног значења;
+  - како да уочиш и исправиш грешке у алгоритму, провериш ваљаност свог решења и по
+    потреби га поправиш (самостално или сараднички);
+  - у каквој су вези алгоритам и понашање дигиталног уређаја.
+lang: sr-Cyrl
 lessons:
+- activities:
+  - description: ''
+    file: 0_1_Uvod.html
+    guid: df2413db-8567-4ab5-a5ba-9a5c54c6c5c3
+    normalized_title: Добродошли у Дигитални свет!
+    src: 0_1_Uvod.rst
+    title: Добродошли у Дигитални свет!
+    type: reading
+  archived-activities: []
+  description: ''
+  folder: 0_Uvod
+  guid: dc4a9e7e-3aa5-4833-8b6e-0a0852fc0d12
+  normalized_title: Увод
+  title: Увод
 - activities:
   - description: ''
     file: 100_Uvod.html
@@ -167,6 +223,13 @@ lessons:
   title: Дигитално друштво
 - activities:
   - description: ''
+    file: 200_Bezbedno koriscenje digitalnih uredjaja.html
+    guid: 0b998d5d-df36-49b8-90e4-ab88497f0f0f
+    normalized_title: Безбедно коришћење дигиталних уређаја
+    src: 200_Bezbedno koriscenje digitalnih uredjaja.rst
+    title: Безбедно коришћење дигиталних уређаја
+    type: reading
+  - description: ''
     file: 219_Koriscenje digitalnih uredjaja i zdravlje.html
     guid: 4050eb14-6fb8-41b4-8d41-c12990d542e3
     normalized_title: Коришћење дигиталних уређаја и здравље
@@ -211,10 +274,17 @@ lessons:
   archived-activities: []
   description: ''
   folder: 2_Bezbedno koriscenje digitalnih uredjaja
-  guid: e35f0406-5b44-4b36-9882-45db9af5d058
+  guid: 5926a04f-5c2a-4810-aac0-0b27767fbca8
   normalized_title: Безбедно коришћење дигиталних уређаја
   title: Безбедно коришћење дигиталних уређаја
 - activities:
+  - description: ''
+    file: 300_Algoritamski nacin razmisljanja.html
+    guid: b55c0435-870b-41b3-8099-1360a164db72
+    normalized_title: Алгоритамски начин размишљања
+    src: 300_Algoritamski nacin razmisljanja.rst
+    title: Алгоритамски начин размишљања
+    type: reading
   - description: ''
     file: 327_Algoritam.html
     guid: e140bb42-8188-4a2e-9b97-c4ec991bf21f
@@ -274,7 +344,7 @@ lessons:
   archived-activities: []
   description: ''
   folder: 3_Algoritamski nacin razmisljanja
-  guid: 39077015-75eb-48d3-87d0-8286fbcf3b11
+  guid: c3665a72-b3bf-4b35-9dc4-f17f109b0abd
   normalized_title: Алгоритамски начин размишљања
   title: Алгоритамски начин размишљања
 title: Дигитални свет за први разред
