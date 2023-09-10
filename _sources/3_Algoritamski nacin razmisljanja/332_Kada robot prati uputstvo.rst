@@ -18,15 +18,170 @@
 
 Робот прати упутства које су му дали истраживачи дали. Робот разуме следеће кораке.
 
+|
+
 .. image:: ../../_images/simboli2.png
    :width: 300
    :align: center
 
-
-
 |
 
-.. image:: ../../_images/robot33.png
+.. image:: ../../_images/mreza332a.png
+    :width: 600
+    :align: center
+
+.. questionnote::
+ 
+ Робот прати следеће инструкције. У радној свесци на страници **XX** прати инструкције које робот има.
+
+
+.. quizq::
+
+ Шта је робот пронашао? Означи кружић испред предмета који је робот пронашао.
+
+ | 
+
+ .. image:: ../../_images/332_maska.png
+    :width: 200
+    :align: center
+
+ .. mchoice:: p332a1
+   :hide_labels:
+   :answer_a: гусарска капа
+   :answer_b: ковчег
+   :answer_c: маска 
+   :answer_d: кука
+   :correct: c
+
+.. quizq::
+
+ Шта је робот пронашао? Означи кружић испред предмета који је робот пронашао.
+
+ | 
+
+ .. image:: ../../_images/332_kuka.png
+    :width: 300
+    :align: center
+
+ .. mchoice:: p332a2
+   :hide_labels:
+   :answer_a: кука
+   :answer_b: ковчег
+   :answer_c: маска 
+   :answer_d: дијамант
+   :correct: a
+
+.. quizq::
+
+ Шта је робот пронашао? Означи кружић испред предмета који је робот пронашао.
+
+ | 
+
+ .. image:: ../../_images/332_prsten.png
+    :width: 300
+    :align: center
+
+ .. mchoice:: p332a3
+   :hide_labels:
+   :answer_a: кука
+   :answer_b: ковчег
+   :answer_c: дијамант
+   :answer_d: топ
+   :correct: d
+   
+
+.. quizq::
+
+ Шта је робот пронашао? Означи кружић испред предмета који је робот пронашао.
+
+ | 
+
+ .. image:: ../../_images/332_sat.png
+    :width: 400
+    :align: center
+
+ .. mchoice:: p332a4
+   :hide_labels:
+   :answer_a: топ
+   :answer_b: ковчег
+   :answer_c: сат
+   :answer_d: прстен
+   :correct: c
+
+
+.. quizq::
+
+ Шта је робот пронашао? Означи кружић испред предмета који је робот пронашао.
+
+ | 
+
+ .. image:: ../../_images/332_kapa.png
+    :width: 250
+    :align: center
+
+ .. mchoice:: p332a5
+   :hide_labels:
+   :answer_a: гусарска капа
+   :answer_b: ковчег
+   :answer_c: сат
+   :answer_d: прстен
+   :correct: a
+
+
+.. quizq::
+
+ Шта је робот пронашао? Упиши одговор.
+ 
+ |
+
+ .. image:: ../../_images/332_vulkan.png
+    :width: 250
+    :align: center
+
+ .. fillintheblank:: 332а6
+
+    Одговор: |blank|
+
+    - :^[Вв]улкан|[Vv]ulkan$: Одговор је тачан.
+      :x: Одговор није тачан.
+
+ 
+.. quizq::
+
+ Шта је робот пронашао? Упиши одговор.
+ 
+ |
+
+ .. image:: ../../_images/332_dijamant.png
+    :width: 350
+    :align: center
+
+ .. fillintheblank:: 332а7
+
+    Одговор: |blank|
+
+   - :^[Дд]ијамант|[Dd]ijamant$: Одговор је тачан.
+      :x: Одговор није тачан.
+
+.. quizq::
+
+ Шта је робот пронашао? Упиши одговор.
+ 
+ |
+
+ .. image:: ../../_images/332_top.png
+    :width: 350
+    :align: center
+
+ .. fillintheblank:: 332а8
+
+    Одговор: |blank|
+
+    - :^[Tt]op|[Тт]оп$: Одговор је тачан.
+      :x: Одговор није тачан.
+
+
+ .. image:: ../../_images/robot33.png
     :width: 100
     :align: right
 
@@ -36,3 +191,9 @@
 **Домаћи задатак**
 
 |
+
+У радној свесци на страници **XX** напиши инструкције да пронађеш:
+
+- Мач. Тесирај свој алгоритам. Ако треба исправи га.
+
+- Дикат. Тестирај свој алгоритам. Ако треба исправи га.

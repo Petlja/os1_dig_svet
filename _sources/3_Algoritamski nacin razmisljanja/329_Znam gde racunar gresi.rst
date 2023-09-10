@@ -36,6 +36,7 @@
 
 
 .. mchoice:: p329
+   :hide_labels:
    :answer_a: квадрат
    :answer_b: кућа
    :answer_c: круг 
