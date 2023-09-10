@@ -51,7 +51,7 @@
 |
 
 .. image:: ../../_images/bezkor1.png
-   :width: 780
+   :width: 600
    :align: center
 
 |

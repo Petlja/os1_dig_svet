@@ -161,7 +161,7 @@ lessons:
         description: #Optional
         guid: 7105c1eb-cc28-41af-b8b1-d590b0b9bfcb
   - title: Безбедно коришћење дигиталних уређаја
-    guid: e35f0406-5b44-4b36-9882-45db9af5d058
+    guid: 5926a04f-5c2a-4810-aac0-0b27767fbca8
     description: 
     folder: 2_Bezbedno koriscenje digitalnih uredjaja
     activities:
@@ -201,7 +201,7 @@ lessons:
         description: #Optional
         guid: a484326b-975d-4ff1-9daa-b6dacf8ec5bd
   - title: Алгоритамски начин размишљања
-    guid: 39077015-75eb-48d3-87d0-8286fbcf3b11
+    guid: c3665a72-b3bf-4b35-9dc4-f17f109b0abd
     description: 
     folder: 3_Algoritamski nacin razmisljanja
     activities:

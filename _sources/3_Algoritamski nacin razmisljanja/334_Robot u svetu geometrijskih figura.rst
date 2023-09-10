@@ -8,3 +8,17 @@
     :align: left
 
 |
+
+
+|
+
+.. image:: ../../_images/robot33.png
+    :width: 100
+    :align: right
+
+------------
+
+
+**Домаћи задатак**
+
+|
