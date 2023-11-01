@@ -26,7 +26,7 @@
 |
 
 .. image:: ../../_images/skeniranje.png
-    :width: 780
+    :width: 700
     :align: center
 
 .. questionnote::
@@ -46,7 +46,7 @@
 .. Размисли о културном наслеђу своје земље. У радној свесци на страници **XX** нацртај или напиши у пољима испод питања твој одговор.
 
 .. image:: ../../_images/zadatak_zemlja.png
-    :width: 780
+    :width: 700
     :align: center
 
 .. questionnote::

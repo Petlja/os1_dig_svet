@@ -23,7 +23,7 @@
 Покушај да препознаш дигиталне уређаје. Именуј сваки уређај који препознајеш. 
 
 .. image:: ../../_images/bojanka.png
-  :width: 780
+  :width: 700
   :align: center
 
 
@@ -55,7 +55,7 @@
 Погледај пажљиво учионицу са слике.
 
 .. image:: ../../_images/hajtek_ucionica.png
-    :width: 780
+    :width: 700
     :align: center
 
 |

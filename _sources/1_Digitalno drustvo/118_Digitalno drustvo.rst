@@ -33,7 +33,7 @@
 |
 
 .. image:: ../../_images/kuca.png
-   :width: 780
+   :width: 700
    :align: center 
 
 
@@ -56,7 +56,7 @@
  Именуј само „паметне“ уређаје.
 
 .. image:: ../../_images/uredjaji2.png
-   :width: 780
+   :width: 700
    :align: center 
 
 -------------------

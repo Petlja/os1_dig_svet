@@ -116,7 +116,7 @@
 |
 
 .. image:: ../../_images/aktivnosti.png
-   :width: 780
+   :width: 700
    :align: center 
 
 |

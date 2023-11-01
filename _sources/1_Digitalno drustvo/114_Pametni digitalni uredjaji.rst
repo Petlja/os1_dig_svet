@@ -21,7 +21,7 @@
 |
 
 .. image:: ../../_images/internet.png
-    :width: 780
+    :width: 700
     :align: center
 
 .. 
@@ -30,7 +30,7 @@
  Како твоја породица користи интернет? У радној свесци на страници **XX** заокружи све начине на које твоја породица користи интернет.   
 
 .. image:: ../../_images/internet_porodica.png
-    :width: 780
+    :width: 700
     :align: center
 
 |
@@ -40,7 +40,7 @@
 |
 
 .. image:: ../../_images/mama_ukljucuje_klimu.png
-    :width: 780
+    :width: 700
     :align: center
 
 .. questionnote::
@@ -52,7 +52,7 @@
 Пажљиво проучи слику.
 
 .. image:: ../../_images/digitalni_uredjaji_u_kuci.png
-    :width: 780
+    :width: 700
     :align: center
 
 |
