@@ -48,6 +48,11 @@
    :answer_c: 3
    :answer_d: 4
    :answer_e: 5
+   :feedback_a: Одговор је тачан!
+   :feedback_b: Одговор није тачан.
+   :feedback_c: Одговор није тачан.
+   :feedback_d: Одговор није тачан.
+   :feedback_e: Одговор није тачан.
    :correct: a
 
 
@@ -79,6 +84,11 @@
    :answer_c: 3
    :answer_d: 4
    :answer_e: 5
+   :feedback_a: Одговор није тачан.
+   :feedback_b: Одговор није тачан.
+   :feedback_c: Одговор је тачан!
+   :feedback_d: Одговор није тачан.
+   :feedback_e: Одговор није тачан.
    :correct: c
 
 ..
@@ -109,6 +119,11 @@
    :answer_c: 3
    :answer_d: 4
    :answer_e: 5
+   :feedback_a: Одговор није тачан.
+   :feedback_b: Одговор је тачан!
+   :feedback_c: Одговор није тачан.
+   :feedback_d: Одговор није тачан.
+   :feedback_e: Одговор није тачан.
    :correct: b
 
 ..
@@ -139,6 +154,11 @@
    :answer_c: 3
    :answer_d: 4
    :answer_e: 5
+   :feedback_a: Одговор није тачан.
+   :feedback_b: Одговор није тачан.
+   :feedback_c: Одговор није тачан.
+   :feedback_d: Одговор није тачан.
+   :feedback_e: Одговор је тачан!
    :correct: e
 
 ..
@@ -169,6 +189,11 @@
    :answer_c: 3
    :answer_d: 4
    :answer_e: 5
+   :feedback_a: Одговор није тачан.
+   :feedback_b: Одговор није тачан.
+   :feedback_c: Одговор није тачан.
+   :feedback_d: Одговор је тачан!
+   :feedback_e: Одговор није тачан.
    :correct: d
 
 ..
