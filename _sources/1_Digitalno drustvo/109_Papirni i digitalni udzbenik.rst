@@ -72,9 +72,10 @@
 
 .. csv-table:: 
    :widths: auto
-   :align: left
+   :align: center
 
-   "|sl|", "|sl|"
+   "|slika34|", "|slika35|"
+   
 
 .. questionnote::
 
