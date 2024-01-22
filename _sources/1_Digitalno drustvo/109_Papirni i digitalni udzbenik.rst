@@ -8,6 +8,12 @@
 .. |sl| image:: ../../_images/slika.png
     :width: 350px  
 
+.. |slika34| image:: ../../_images/slika34.png
+    :width: 350px  
+
+.. |slika35| image:: ../../_images/slika35.png
+    :width: 350px  
+
 .. infonote::
 
  .. image:: ../../_images/robot11.png
@@ -101,7 +107,7 @@
 буде твоје име и презиме. 
 
  
- .. questionnote::
+.. questionnote::
 
  У радној свесци на страници **29** напиши твоје корисничко име.
 
