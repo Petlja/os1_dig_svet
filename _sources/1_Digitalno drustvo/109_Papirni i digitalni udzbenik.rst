@@ -25,7 +25,7 @@
 
 Пажљиво погледај слику. 
 
-.. image:: ../../_images/slika.png
+.. image:: ../../_images/nova_ilustracija.png
     :width: 780
     :align: center
 
