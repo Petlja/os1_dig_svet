@@ -66,11 +66,6 @@ lessons:
     folder: 1_Digitalno drustvo
     activities:
       - type: reading
-        title: Дигитално друштво
-        file: 100_Uvod.rst 
-        description: #Optional
-        guid: c74a6687-3024-41d7-b0a7-8c692f68a4c8
-      - type: reading
         title: Дигитални уређаји су свуда око нас
         file: 101_Digitalni uredjaji su svuda oko nas.rst 
         description: #Optional
@@ -166,11 +161,6 @@ lessons:
     folder: 2_Bezbedno koriscenje digitalnih uredjaja
     activities:
       - type: reading
-        title: Безбедно коришћење дигиталних уређаја
-        file: 200_Bezbedno koriscenje digitalnih uredjaja.rst 
-        description: #Optional
-        guid: 0b998d5d-df36-49b8-90e4-ab88497f0f0f
-      - type: reading
         title: Коришћење дигиталних уређаја и здравље
         file: 219_Koriscenje digitalnih uredjaja i zdravlje.rst 
         description: #Optional
@@ -205,11 +195,6 @@ lessons:
     description: 
     folder: 3_Algoritamski nacin razmisljanja
     activities:
-      - type: reading
-        title: Алгоритамски начин размишљања
-        file: 300_Algoritamski nacin razmisljanja.rst
-        description: #Optional
-        guid: b55c0435-870b-41b3-8099-1360a164db72
       - type: reading
         title: Алгоритам
         file: 327_Algoritam.rst 
@@ -250,3 +235,8 @@ lessons:
         file: 336_Algoritamski nacin razmisljanja.rst 
         description: #Optional
         guid: bfff8378-781f-4cda-a147-c2583f664b0c
+
+archived: 
+  - guid: c74a6687-3024-41d7-b0a7-8c692f68a4c8
+  - guid: 0b998d5d-df36-49b8-90e4-ab88497f0f0f
+  - guid: b55c0435-870b-41b3-8099-1360a164db72
