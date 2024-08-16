@@ -57,8 +57,8 @@ Oпиши на који начин људи у граду најчешће од�
 
 |
 
-.. image:: ../../_images/slika.png
-    :width: 600
+.. image:: ../../_images/reciklaža-1.png
+    :width: 70%
     :align: center
 
 .. questionnote::

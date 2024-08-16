@@ -1,6 +1,58 @@
 Коришћење дигиталних уређаја и здравље
 ======================================
 
+.. |ledja-1| image:: ../../_images/ledja-1.png
+                :width: 100%
+
+.. |ledja-2| image:: ../../_images/ledja-2.png
+                :width: 100%
+
+.. |ledja-3| image:: ../../_images/ledja-3.png
+                :width: 100%
+                
+.. |ledja-4| image:: ../../_images/ledja-4.png
+                :width: 100%
+
+.. |noge-1| image:: ../../_images/noge-1.png
+                :width: 70%
+
+.. |noge-2| image:: ../../_images/noge-2.png
+                :width: 70%
+
+.. |noge-3| image:: ../../_images/noge-3.png
+                :width: 70%
+
+.. |ramena-2| image:: ../../_images/ramena-2.png
+                :width: 100%
+
+.. |ramena-3| image:: ../../_images/ramena-3.png
+                :width: 100%
+
+.. |ramena-4| image:: ../../_images/ramena-4.png
+                :width: 100%
+
+.. |ramena-1| image:: ../../_images/ramena-1.png
+                :width: 100%
+
+.. |ruke-1| image:: ../../_images/ruke-1.png
+                :width: 50%
+
+.. |ruke-2| image:: ../../_images/ruke-2.png
+                :width: 50%
+
+.. |vrat-1| image:: ../../_images/vrat-1.png
+                :width: 100%
+
+.. |vrat-2| image:: ../../_images/vrat-2.png
+                :width: 100%
+
+.. |vrat-3| image:: ../../_images/vrat-3.png
+                :width: 100%
+
+.. |vrat-4| image:: ../../_images/vrat-4.png
+                :width: 100%      
+
+                          
 .. infonote::
 
  .. image:: ../../_images/robot21.png
@@ -44,13 +96,45 @@
    Означи квадратиће испред тврдњи које се односе на правилно руковање дигиталним уређајем.
 
 Не треба да користиш дигиталне уређаје дуже од пола сата. Ако ипак користиш дигитални уређај дуже од тог времена потребно је 
-да урадиш вежбе које су дате на слици. 
+да урадиш вежбе које су дате на сликама.
 
-|
+Вежбе за леђа:
 
-.. image:: ../../_images/slika.png
-   :width: 500
-   :align: center 
+.. csv-table::
+    :widths: 100, 100, 100, 100
+    :align: center
+    
+    |ledja-1|, |ledja-2|, |ledja-3|, |ledja-4|
+
+Вежбе за ноге:
+
+.. csv-table::
+    :widths: 100, 100, 100
+    :align: center
+    
+    |noge-1|, |noge-2|, |noge-3|
+
+Вежбе за рамена:
+
+.. csv-table::
+    :widths: 100, 100, 100, 100
+    :align: center
+    
+    |ramena-1|, |ramena-2|, |ramena-3|, |ramena-4|   
+
+Вежбе за руке:
+
+.. csv-table::
+    :widths: 100, 100
+    :align: center
+    
+    |ruke-1|, |ruke-2|
+
+.. csv-table::
+    :widths: 100, 100, 100, 100
+    :align: center
+    
+    |vrat-1|, |vrat-2|, |vrat-3|, |vrat-4|
 
 .. infonote::
 

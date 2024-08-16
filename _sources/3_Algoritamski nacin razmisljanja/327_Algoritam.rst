@@ -1,6 +1,10 @@
 Алгоритам
 =========
 
+.. |zubi-1| image:: ../../_images/zubi-1.png
+                :width: 100%
+
+
 .. infonote::
 
  .. image:: ../../_images/robot31.png
@@ -12,7 +16,9 @@
 
 |
 
-
+.. image:: ../../_images/pranje_zuba-01.png
+    :width: 50%
+    :align: center
 
 .. mchoice:: mchoicezubi
     :hide_labels:
